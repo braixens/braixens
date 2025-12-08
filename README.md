@@ -16,8 +16,9 @@
     <p>currently learning webdev stuff in</p><br/>
     <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite"/><br/>
     <p><b>hi hello I'm dime :3 im passionate about software and coding and all that stuff xD<br/>
-        furry :3 (bat/puppy/dragon) i lov rhythm games, its basically my life ^_^<br/>
+        furry :3 (bat/puppy/dragon) i lov rhythm games, its basically my life ^_^<br/><br/>
         touhou/vocaloid/pokemon fanatic<br/>
+        artcore/speedcore/breakcore >>><br/><br/>
         aspiring full stack dev/cybersec enthusiast<b/></p><br/>
     <br/>
     <h2>Some stuff im working on</h2>
