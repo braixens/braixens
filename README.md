@@ -13,8 +13,8 @@
 <br/>
 
 <div align="center">
-    <p>currently learning webdev stuff in</p><br/>
-    <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite"/><br/>
+    <p>currently fixating on stuff with </p>
+    <img src="https://skillicons.dev/icons?i=robloxstudio,lua"/><br/><br/>
     <p><b>hi hello I'm dime :3 im passionate about software and coding and all that stuff xD<br/>
         furry :3 (bat/puppy/dragon) i lov rhythm games, its basically my life ^_^<br/><br/>
         touhou/vocaloid/pokemon fanatic<br/>
@@ -28,5 +28,5 @@
     <h3><a href="https://lostmemori.es">lostmemori.es</a> - my personal website</h3>
     <p>it suckssss rn but ill fix it as i learn..</p>
     <h3>learning all of these for fun too hehe (i <3 rust) </h3>
-    <img src="https://skillicons.dev/icons?i=rust,discordjs,java,blender,photoshop,aftereffects"/> 
+    <img src="https://skillicons.dev/icons?i=rust,discordjs,java,ts,react,tailwind,vite,blender,photoshop,aftereffects"/> 
 </div> 
